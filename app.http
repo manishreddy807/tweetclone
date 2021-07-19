@@ -1,0 +1,19 @@
+Get http://localhost:3002/
+###
+
+POST http://localhost:3002/register/
+###
+
+POST http://localhost:3002/login/
+###
+
+GET http://localhost:3002/user/tweets/feed/
+###
+
+GET http://localhost:3002/user/following/
+###
+
+GET http://localhost:3002/user/followers/
+###
+
+GET http://localhost:3002/tweets/:tweetId/
